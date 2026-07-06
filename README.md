@@ -1,10 +1,10 @@
-# mydwl
+# quequewc
 
-Un fork minimalista y despojado de **dwl**, pensado para correr exactamente una configuración de hardware y una filosofía de trabajo: cero descubrimiento en tiempo de ejecución, cero abstracciones que no se usan, cero X11.
+Un fork minimalista y despojado de **mydwl**, pensado para correr exactamente una configuración de hardware y una filosofía de trabajo: cero descubrimiento en tiempo de ejecución, cero abstracciones que no se usan, cero X11.
 
 ---
 
-## Diferencias respecto al dwl original
+## Diferencias respecto al mydwl original
 
 ### Eliminado
 
